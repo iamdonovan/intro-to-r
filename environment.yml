@@ -1,9 +1,11 @@
 name: intro-to-r
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
-  - python=3.9
+  - python
   - jupyterlab
   - r-base
+  - r-irkernel
   - r-tidyverse
