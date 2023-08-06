@@ -5,3 +5,5 @@ channels:
 dependencies:
   - python=3.9
   - jupyterlab
+  - r-base
+  - r-tidyverse
