@@ -1,6 +1,9 @@
 # add jupter notebook checkpoints
 .ipynb_checkpoints
 
+# add Libreoffice files
+.odp
+
 # History files
 .Rhistory
 .Rapp.history
