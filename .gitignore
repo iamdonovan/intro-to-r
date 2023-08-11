@@ -2,7 +2,7 @@
 .ipynb_checkpoints
 
 # add Libreoffice files
-*.odp
+*.odp*
 
 # History files
 .Rhistory
