@@ -1,3 +1,15 @@
+# add files from mybinder.org
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.npm/
+.profile
+
+
 # add jupter notebook checkpoints
 .ipynb_checkpoints
 
