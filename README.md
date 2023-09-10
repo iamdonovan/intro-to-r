@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iamdonovan/intro-to-r/binder)
+
 # programming skills for phd researchers
 
 The aim of this workshop is to provide PhD Researchers with skills and experience to use programming tools for 
